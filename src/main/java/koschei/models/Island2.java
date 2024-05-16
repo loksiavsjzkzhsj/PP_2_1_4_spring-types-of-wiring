@@ -8,6 +8,7 @@ public class Island2 {
         this.wood = wood;
     }
 
+
     @Override
     public String toString() {
         return ", на острове дерево " + wood.toString();
